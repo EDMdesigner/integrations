@@ -1,4 +1,4 @@
-# Commenting Plugin Integrations
+# Commenting Plugin Integration
 
 1) [generate an access token](../generate-access-token)
 2) Insert the following snippet into your HTML (you can change the version number to the latest one)
