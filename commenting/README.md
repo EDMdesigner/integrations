@@ -4,8 +4,8 @@
 2) Insert the following snippet into your HTML (you can change the version number to the latest one)
 
 ```html
-<script src="https://plugins.edmdesigner.com/commenting/0.0.2/createPlugin.js">
-<script src="https://plugins.edmdesigner.com/commenting/0.0.2/openCommentingPlugin.js">
+<script src="https://plugins.edmdesigner.com/commenting/0.0.2/createPlugin.js"></script>
+<script src="https://plugins.edmdesigner.com/commenting/0.0.2/openCommentingPlugin.js"></script>
 <style>
 #commenting-plugin-wrapper {
 	position: fixed;
